@@ -47,7 +47,7 @@ elif computer_choice==1:
     print(scissors)
 else:
     print(paper)
-print()
+print("")
 print('Computer Chose')
 if user_choice==0 and computer_choice==1:
     print('You Win')
