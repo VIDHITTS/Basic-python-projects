@@ -25,6 +25,7 @@ scissors = '''
       (____)
 ---.__(___)
 '''
+# actual code
 #0-rock
 #1-scissors
 #2-paper
