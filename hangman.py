@@ -105,7 +105,6 @@ while not game_over:
 
     print("Word to guess: " + display)
 
-
     if guess not in chosen_word:
         lives -= 1
         print(f"letter '{letter}' is not in the word")
