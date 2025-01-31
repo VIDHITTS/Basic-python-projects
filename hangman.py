@@ -85,6 +85,9 @@ for position in range(word_length):
     placeholder += "_"
 print("Word to guess: " + placeholder)
 
+
+
+
 game_over = False
 correct_letters = []
 
