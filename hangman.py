@@ -79,6 +79,8 @@ print(logo)
 lives = 6
 chosen_word = random.choice(word_list)
 
+
+
 placeholder = ""
 word_length = len(chosen_word)
 for position in range(word_length):
