@@ -93,6 +93,8 @@ correct_letters = []
 
 
 
+
+
 while not game_over:
 
     print(f"****************************{lives}/6 LIVES LEFT****************************")
