@@ -103,6 +103,8 @@ while not game_over:
     if guess in correct_letters:
         print(f"You've already guesses the letter {guess}")
     display = ""
+    
+    
 
     for letter in chosen_word:
         if letter == guess:
